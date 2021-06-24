@@ -6,6 +6,7 @@ API Documentation：https://wei032499.github.io/exampg/
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/66c5dba4d9a9998ff21d)
 
 ## 概述(Overview)
+1. Bootstrap 4.6、PHP
 1. 以存放在cookie的JSON Web Token (JWT)作權限驗證。
 1. 利用browser的sessionStorage做資料的暫存(表單確認頁)。
 
